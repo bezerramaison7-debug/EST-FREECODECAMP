@@ -15,7 +15,7 @@ Repositório com os exercícios e projetos que faço no freeCodeCamp. Cada pasta
 
 | # | Exercício | Tipo | O que pratiquei | Data |
 |---|-----------|------|-----------------|------|
-| 01 | Construa um validador de perfil de funcionario | Workshop | strings, metodos, fatiamento | Em Andamento |
+| 01 | [Construa um validador de perfil de funcionario](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/VALIDADOR%20DE%20PERFIL.py) | Workshop | strings, metodos, fatiamento | Em Andamento |
 
 ## Estrutura
 
