@@ -8,14 +8,14 @@ Repositório com os exercícios e projetos que faço no freeCodeCamp. Cada pasta
 
 ## Em andamento
 
-- **Curso:** [nome do curso, ex.: Python]
-- **Comecei em:** [mês/ano]
+- **Curso:** Python
+- **Comecei em:** 11/2026
 
 ## Progresso
 
 | # | Exercício | Tipo | O que pratiquei | Data |
 |---|-----------|------|-----------------|------|
-| 01 | [Cifra de César](python/01-workshops/01-cifra-de-cesar/) | Workshop | strings, loops, funções | [dd/mm/aaaa] |
+| 01 | Construa um validador de perfil de funcionario | Workshop | strings, metodos, fatiamento | Em Andamento |
 
 ## Estrutura
 
