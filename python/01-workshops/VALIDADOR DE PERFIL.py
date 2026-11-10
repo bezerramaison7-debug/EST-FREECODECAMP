@@ -58,3 +58,18 @@ rejoined = " | ".join(
     address_parts
 )  # Reunindo as partes do endereço com um separador personalizado.
 print(f"Rejoined: {rejoined}")
+
+employee_code = 'EMP-2024-SD'  # Exemplo de código de identificação de funcionário.
+starts_with_emp = employee_code.startswith('EMP')  # Verificando se o código começa com "EMP".
+
+ends_with_com = clean_email.endswith('.com')  # Verificando se o email limpo termina com ".com".
+
+print(f"Code: {employee_code}")
+print(f"Starts with EMP: {starts_with_emp}")
+print(f"Clean email: {clean_email}")
+print(f"Ends with .com: {ends_with_com}")
+
+dot_count = clean_email.count('.')  # Contando quantas vezes o caractere "." aparece no email limpo.
+dash_count = employee_code.count('-')  # Contando quantas vezes o caractere "-" aparece no código do funcionário.
+print(f"Dots in email: {dot_count}")
+print(f"Dashes in code: {dash_count}")
