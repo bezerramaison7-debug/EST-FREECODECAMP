@@ -15,7 +15,9 @@ Repositório com os exercícios e projetos que faço no freeCodeCamp. Cada pasta
 
 | # | Exercício | Tipo | O que pratiquei | Data |
 |---|-----------|------|-----------------|------|
-| 01 | [Construa um validador de perfil de funcionario](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/01-workshops/VALIDADOR%20DE%20PERFIL.py) | Workshop | strings, metodos, fatiamento | Em Andamento |
+| 01 | [Construa um validador de perfil de funcionario](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/01-workshops/VALIDADOR%20DE%20PERFIL.py) | Workshop | strings, metodos, fatiamento | Concluido |
+| 02 | [Construa um divisor de contas](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/01-workshops/DIVISOR%20DE%20CONTA.py) | Workshop | operadores aritméticos, atribuição composta, round(), f-strings | Concluído |
+| 03 | [Construa uma calculadora de ingressos de cinema](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/01-workshops/CALCULADORA%20DE%20RESERVAS%20DE%20INGRESSO.py) | Workshop | condicionais, operadores lógicos, f-strings | Concluído |
 
 ## Estrutura
 
