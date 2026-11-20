@@ -20,7 +20,7 @@ Repositório com os exercícios e projetos que faço no freeCodeCamp. Cada pasta
 | 03 | [Construa uma calculadora de ingressos de cinema](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/01-workshops/CALCULADORA%20DE%20RESERVAS%20DE%20INGRESSO.py) | Workshop | condicionais, operadores lógicos, f-strings | Concluído |
 | 04 | [Cadastro de fornecedor](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/02-labs/CADASTRO%20FORNECEDOR.py) | Labs | strings, métodos, fatiamento, encadeamento, f-strings | Concluído |
 | 05 | [Planejador de clima para viagens](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/01-workshops/RASTREADOR%20DE%20INVENTARIO%20DE%20COZINHA.py) | Labs | condicionais aninhadas, operadores lógicos, truthy e falsy | Concluído |
-| 05 | [Rastreador de inventario de cozinha](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/02-labs/PLANEJADOR%20DE%20CLIMA%20PARA%20VIAGENS.py) | Workshop | funções, parâmetros, argumentos, retorno de valores e reatribuição de variáveis | Concluído |
+| 06 | [Rastreador de inventario de cozinha](https://github.com/bezerramaison7-debug/EST-FREECODECAMP/blob/main/python/02-labs/PLANEJADOR%20DE%20CLIMA%20PARA%20VIAGENS.py) | Workshop | funções, parâmetros, argumentos, retorno de valores e reatribuição de variáveis | Concluído |
 
 ## Estrutura
 
